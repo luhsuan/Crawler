@@ -1,5 +1,6 @@
 # Beauty Forum Crawler
-This Python script is a web crawler designed to collect data from a beauty forum's user blog. The script uses libraries such as Requests, BeautifulSoup, Selenium, and more to scrape articles and comments from the forum. Below is a breakdown of the script's main functions and how to use it:
+This Python script is a web crawler designed to collect data from a beauty forum's user blog https://fgblog.fashionguide.com.tw/category/4/last_posts. The script uses libraries such as Requests, BeautifulSoup, Selenium, and more to scrape articles and comments from the forum.
+Below is a breakdown of the script's main functions and how to use it:
 
 ## Prerequisites
 * Python 3.x
